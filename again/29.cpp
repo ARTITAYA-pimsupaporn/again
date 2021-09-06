@@ -10,7 +10,7 @@ int main() {
 	}
 	float sum = 0;
 	for (int i = 0; i < 10; i++) {
-		sum += h[i];;
+		sum += h[i];
 
 	}
 	sum /= 10;
